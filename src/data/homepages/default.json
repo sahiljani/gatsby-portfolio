@@ -1,0 +1,1637 @@
+{
+    "title": "default-home",
+    "content": [
+        {
+            "id": "default-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "WELCOME TO MY WORLD"
+                },
+                {
+                    "content": "Hi, I’m <span>Sahil Jani</span>"
+                }
+            ],
+            "animated_texts": [
+                "Developer.",
+                "Professional Coder.",
+                "Designer."
+            ],
+            "texts": [
+                {
+                    "content": "I am a Web Developer with over 5 years of experience in building dynamic applications using HTML, CSS, JavaScript, PHP, and Laravel. I excel in enhancing user engagement through projects like SaaS migrations to WordPress and responsive React interfaces. My focus on clean coding and continuous learning ensures I deliver robust, scalable solutions. Explore my projects to see how I merge creativity with technical expertise for impactful web solutions."
+                }
+            ],
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-01.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-02.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-03.png",
+                        "alt": "Skill Icon"
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "src": "l",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "default-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Features"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Full-Stack Development",
+                    "description": "Building robust and scalable web applications using modern frameworks and technologies.",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "Cloud Infrastructure & DevOps",
+                    "description": "Implementing and managing cloud solutions with a focus on automation and continuous integration.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "Database Management & Optimization",
+                    "description": "Ensuring efficient data storage and retrieval through optimized database designs and queries.",
+                    "icon": "Tv",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "SEO & Digital Marketing",
+                    "description": "Enhancing online visibility and driving traffic through effective SEO strategies and digital marketing campaigns.",
+                    "icon": "Twitch",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "title": "Custom WordPress & Shopify Solutions",
+                    "description": "Creating tailored solutions for WordPress and Shopify that cater to unique business needs.",
+                    "icon": "Wifi",
+                    "path": "#!"
+                },
+                {
+                    "id": 6,
+                    "title": "Web Scraping & Automation",
+                    "description": "Automating data collection processes and implementing web scraping techniques for actionable insights.",
+                    "icon": "Slack",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "default-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Portfolio",
+                "subtitle": "Visit my portfolio and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Investor Management System",
+                    "category": "Web Development",
+                    "texts": [
+                        {
+                            "content": "Developed advanced filters for project-investor matching using MySQL and Laravel, improving user experience."
+                        },
+                        {
+                            "content": "Integrated Amazon SES for bulk email sending, enhancing communication with investors."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/investor-management-system.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Incentive-based Quiz Website",
+                    "category": "Application Development",
+                    "texts": [
+                        {
+                            "content": "Developed RESTful APIs on Laravel for a React-based front end, enhancing interactivity."
+                        },
+                        {
+                            "content": "Integrated Adsense and Google Analytics, boosting monthly ad revenue by 50%."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/incentive-quiz-website.webp"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Website Design & Content Management System",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Transformed Figma designs into a responsive web app, increasing user engagement by 30%."
+                        },
+                        {
+                            "content": "Built a CMS with Laravel, improving lead generation by 20%."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/cms-website.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Wedding Website Builder",
+                    "category": "Laravel",
+                    "texts": [
+                        {
+                            "content": "Create a Stunning, Wedding Website in Minutes with Ease and Elegance."
+                        },
+                        {
+                            "content": "Create beautiful wedding websites effortlessly with our Laravel-based app. Choose from three elegant themes and customize your site with a simple, user-friendly interface. Our app uses Tailwind CSS for a sleek backend and Bootstrap with SCSS for a stylish, responsive frontend. Ideal for wedding management companies seeking a quick and easy website solution."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/wedding.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "E-commerce Solutions",
+                    "category": "Web Development",
+                    "texts": [
+                        {
+                            "content": "Delivered custom Shopify and WordPress solutions tailored to enhance online sales."
+                        },
+                        {
+                            "content": "Maintained effective client communication to ensure project goals were met."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/ecommerce-solutions.webp"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "Cloud Infrastructure Solutions",
+                    "category": "Cloud Services",
+                    "texts": [
+                        {
+                            "content": "Established scalable cloud infrastructure using AWS, enhancing application performance."
+                        },
+                        {
+                            "content": "Improved deployment processes through automation and best practices."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/cloud-infrastructure.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 7,
+                    "title": "Investor Management System",
+                    "category": "Web Development",
+                    "texts": [
+                        {
+                            "content": "Developed advanced filters for project-investor matching using MySQL and Laravel, improving user experience."
+                        },
+                        {
+                            "content": "Integrated Amazon SES for bulk email sending, enhancing communication with investors."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/investor-management-system.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 8,
+                    "title": "Investor Management System",
+                    "category": "Web Development",
+                    "texts": [
+                        {
+                            "content": "Developed advanced filters for project-investor matching using MySQL and Laravel, improving user experience."
+                        },
+                        {
+                            "content": "Integrated Amazon SES for bulk email sending, enhancing communication with investors."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/investor-management-system.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "default-home-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "5+ Years of Experience"
+            }
+        },
+        {
+            "id": "default-home-education",
+            "section": "education-section",
+           
+            "title": "Education",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    
+                    "section_title": {
+                       
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Post-Graduation in Artificial Intelligence",
+                            "subtitle": "Georgian College (Jan 2024 – Aug 2024)",
+                            "rating": "../images/icons/icons-01.png",
+                            "description": "Enrolled in a specialized AI and machine learning program with a focus on deep learning, NLP, LLMs, and generative AI. Working on a capstone project that uses these technologies to automate a business intelligence tool, integrating predictive analytics and data visualization with Python and TensorFlow."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Post-Graduation in Mobile Application Development",
+                            "subtitle": "Georgian College (May 2023 – Dec 2023)",
+                            "rating": "../images/icons/icons-01.png",
+                            "description": "Completed a post-graduation in mobile app development, specializing in Kotlin (Android), Swift (iOS), and cross-platform frameworks like React Native and Flutter. Developed apps with Node.js backend and gained proficiency in UI/UX design using Figma and Adobe XD."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bachelor of Engineering - Computer Engineering",
+                            "subtitle": "Gujarat Technological University (2018 - 2021)",
+                            "rating": "../images/icons/icons-01.png",
+                            "description": "Focused on advanced topics like data structures, algorithms, system architecture, and software engineering practices. Worked on large-scale projects such as building a cloud-based inventory management system using React.js and Node.js. Participated in hackathons and coding competitions, consistently ranking among the top participants. Completed coursework on machine learning and cloud computing."
+                        },
+                        {
+                            "id": 4,
+                            "title": "Diploma in Computer Engineering",
+                            "subtitle": "R.C. Technical Institute (2015 - 2018)",
+                            "rating": "../images/icons/icons-01.png",
+                            "description": "Completed a three-year program specializing in core computer engineering concepts, including software development, database management, networking, and hardware systems. Developed key projects such as a student management system using PHP and MySQL, and gained practical experience through industry exposure via workshops and seminars."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Work Quality",
+                        "subtitle": "2007 - Present"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Web Developer (Contract)",
+                            "subtitle": "Leasey.AI, Vancouver, Canada (Sep 2023 – Feb 2024)",
+                            "rating": "../images/icons/icons-01.png",
+
+                            "description": "Migrated SaaS to WordPress, reducing costs by 75%, and implemented dynamic features with PHP, JavaScript, and CSS."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Software Developer",
+                            "subtitle": "ManticLabs Web Solutions Pvt. Ltd., Gujarat, India (Jun 2021 – Aug 2023)",
+                            "rating": "../images/icons/icons-01.png",
+
+                            "description": "Developed 15+ applications using PHP and Laravel, optimizing performance and improving code maintainability."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Web Developer - Internship",
+                            "subtitle": "Cyberstrek Technologies, Gujarat, India (Nov 2020 – May 2021)",
+                            "rating": "../images/icons/icons-01.png",
+
+                            "description": "Created CRM features in PHP and MySQL, enhancing data processing efficiency by 20%."
+                        },
+                        {
+                            "id": 4,
+                            "title": "Freelance Web Developer",
+                            "subtitle": "Self-Employed, Remote (Apr 2018 – Oct 2021)",
+                            "rating": "../images/icons/icons-01.png",
+
+                            "description": "Designed web applications and landing pages, delivering custom solutions for various clients."
+                        }
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "id": "default-home-skill",
+            "section": "skill-section",
+            "title": "Professional Skills",
+            "inner": [
+                {
+                    "id": "default-home-skill-left",
+                    "section_title": {
+                        "title": "Front-end Technologies",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 3,
+                            "title": "JavaScript",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "TypeScript",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "React.js",
+                            "value": 85
+                        },
+                        {
+                            "id": 6,
+                            "title": "Next.js",
+                            "value": 70
+                        },
+                        {
+                            "id": 7,
+                            "title": "Vue.js",
+                            "value": 70
+                        },
+                        {
+                            "id": 8,
+                            "title": "jQuery",
+                            "value": 75
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-right",
+                    "section_title": {
+                        "title": "Back-end Technologies",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "PHP",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "PHPUnit",
+                            "value": 80
+                        },
+                        {
+                            "id": 3,
+                            "title": "Laravel",
+                            "value": 85
+                        },
+                        {
+                            "id": 4,
+                            "title": "Python",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "Node.js",
+                            "value": 80
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-databases",
+                    "section_title": {
+                        "title": "Databases",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "MySQL",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "Postgres",
+                            "value": 75
+                        },
+                        {
+                            "id": 3,
+                            "title": "MongoDB",
+                            "value": 80
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-experience",
+            "section": "experience-section",
+            "title": "Experience",
+            "inner": [
+                {
+                    "id": "default-home-experience-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - Present"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Web Developer (Contract)",
+                            "subtitle": "Leasey.AI, Vancouver, Canada (Sep 2023 – Feb 2024)",
+                            "rating": "N/A",
+                            "description": "Migrated SaaS to WordPress, reducing costs by 75%, and implemented dynamic features with PHP, JavaScript, and CSS."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Software Developer",
+                            "subtitle": "ManticLabs Web Solutions Pvt. Ltd., Gujarat, India (Jun 2021 – Aug 2023)",
+                            "rating": "N/A",
+                            "description": "Developed 15+ applications using PHP and Laravel, optimizing performance and improving code maintainability."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Web Developer - Internship",
+                            "subtitle": "Cyberstrek Technologies, Gujarat, India (Nov 2020 – May 2021)",
+                            "rating": "N/A",
+                            "description": "Created CRM features in PHP and MySQL, enhancing data processing efficiency by 20%."
+                        },
+                        {
+                            "id": 4,
+                            "title": "Freelance Web Developer",
+                            "subtitle": "Self-Employed, Remote (Apr 2018 – Oct 2021)",
+                            "rating": "N/A",
+                            "description": "Designed web applications and landing pages, delivering custom solutions for various clients."
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": "default-home-interview",
+            "section": "interview-section",
+            "title": "interview",
+            "inner": [
+                {
+                    "id": "default-home-experience-left",
+                    "section_title": {
+                        "title": "Company Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Nevine Acotanza",
+                    "subtitle": "Rainbow-Themes",
+                    "designation": "Chief Operating Officer",
+                    "projectTitle": "Android App Development",
+                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--1st.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jone Duone Joe",
+                    "subtitle": "Bound - Trolola",
+                    "designation": "Operating Officer",
+                    "projectTitle": "Web App Development",
+                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
+                    "rating": "4",
+                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--2nd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nevine Dhawan",
+                    "subtitle": "Glassfisom",
+                    "designation": "CEO Of Officer",
+                    "projectTitle": "Android App Design",
+                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--3rd.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-clients",
+            "section": "client-section",
+            "section_title": {
+                "title": "Awesome Clients",
+                "subtitle": "Popular Clients"
+            },
+            "inner": [
+                {
+                    "id": "clinet-js",
+                    "inner_title": "JavaScript",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-design",
+                    "inner_title": "Product Design",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-wp",
+                    "inner_title": "Wordpress",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-react",
+                    "inner_title": "HTML to React",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-laravel",
+                    "inner_title": "React To Laravel",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-python",
+                    "inner_title": "Python",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "inner_title": "Basic",
+                    "title": "Make Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$30.00",
+                    "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-standard",
+                    "inner_title": "Standard",
+                    "title": "Design Make this Page",
+                    "subtitle": "Elementor",
+                    "is_featured": true,
+                    "price": "$50.00",
+                    "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-premium",
+                    "inner_title": "Premium",
+                    "title": "Customize Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$90.00",
+                    "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                }
+            ]
+        },
+        {
+            "id": "default-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        },
+        {
+            "id": "default-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Sahil Jani"
+                },
+                {
+                    "content": "Software Engineer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via email or call me directly."
+                }
+            ]
+        }
+    ]
+}

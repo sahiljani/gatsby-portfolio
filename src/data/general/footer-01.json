@@ -1,0 +1,13 @@
+{
+    "id": "footer-data-1",
+    "section": "footer-1",
+    "copyright_text": "Created By Sahil Jani",
+    "logo": [
+        {
+            "src": "../images/slider/Sahiljani.jpeg"
+        },
+        {
+            "src": "../images/slider/Sahiljani.jpeg"
+        }
+    ]
+}
